@@ -29,10 +29,7 @@ Fourteen instrumental tracks for Album 106. No vocals. I am weak. You live. Your
 10. Living Water
 11. I Am a Vanity
 12. Beloved Who Remembers
-13. The Shepherd Is With Me
-    
-Amen
+13. The Shepherd Is With Me 
+14. Amen
 
-
- 
 All Glory to Lord Jesus Christ.
