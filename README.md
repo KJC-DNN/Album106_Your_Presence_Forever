@@ -33,3 +33,8 @@ Fourteen instrumental tracks for Album 106. No vocals. I am weak. You live. Your
 14. Amen
 
 All Glory to Lord Jesus Christ.
+
+# Published
+1. GitHub: https://github.com/KJC-DNN/Album106_Your_Presence_Forever/releases/tag/106.0.0
+2. Archive: https://archive.org/details/album-106-your-presence-forever-main-cover.jpg
+3. Zenodo: https://doi.org/10.5281/zenodo.23686994
